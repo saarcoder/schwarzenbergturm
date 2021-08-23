@@ -60,5 +60,14 @@ seo:
       relativeUrl: true
 layout: contact
 ---
+Angaben gemäß § 5 TMG
 
-To get in touch fill the form below.
+1fach bewegen
+Schutzbergstraße 12
+66119 Saarbrücken
+
+Vertreten durch:
+Volker Wieland
+
+Telefon: 0179 4738607
+E-Mail: info \[.] 1fach-bewegen.de
