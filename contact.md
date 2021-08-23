@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Impressum
 img_path: images/schwarzenbergturm-saarland.jpg
 form_id: contactForm
 form_action: /success
