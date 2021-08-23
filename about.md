@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Bewegen und der Schwarzenbergturm
 subtitle: This is a short page about me and my work
 img_path: images/schwarzenbergturm-treppenhaus.jpg
 seo:
