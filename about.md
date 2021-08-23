@@ -32,13 +32,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Sie können aus einer Vielfalt von Modulen auswählen.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+1.  Zugänge
+    Beruf als Spielfeld sehen - mit Freude bewegen und arbeiten
+    Sportliche Betätigung und Berufsalltag — Freizeit
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+2.  Der Körper ist Instrument — Signale - Symptome - Sprache
+    innere Bewegung mit Klang/Musik ausdrücken
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+3.  Natur bewegt- Jahreszeiten - Wind - Wetter - Klima
+    auf natürlichen Spuren unterwegs
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+    Egal ob als Bewegungscoaching in der freien Natur oder in direkter Anbindung zum Schwarzenbergturm, wählen Sie selbst aus, in welche Richtung Sie sich bewegen wollen.
