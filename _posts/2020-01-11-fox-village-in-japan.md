@@ -4,11 +4,11 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Der Schwarzenbergturm in Saarbrücken wurde zwischen 1930 und 1931 errichtet.
+  Der Aussichtsturm steht auf dem Schwarzenberg , ist 46 Meter hoch und hat
+  einen quadratischen Querschnitt.Da im Jahre 2012 erhebliche Baumängel
+  festgestellt wurden musste der Turm saniert werden und ist seit Oktober 2013
+  wieder geöffnet.In den Wintermonaten ist der Schwarzenbergturm geschlossen.
 date: '2020-01-11'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
