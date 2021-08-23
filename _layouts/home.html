@@ -19,7 +19,7 @@ layout: body
               <div class="post-meta">
                 {% include date-german.html date=post.date %}
 Veröffentlichungsdatum: {{ formattedDate }}
-                Veröffentlicht am <time class="published"
+                 <time class="published"
                   datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%d. %B %Y' }}</time>
               </div>
             </header><!-- .post-header -->
