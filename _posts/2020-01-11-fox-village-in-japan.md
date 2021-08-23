@@ -1,5 +1,5 @@
 ---
-title: Fox Village In JapanSchwarzenbergturm Saarbrücken
+title: Schwarzenbergturm Saarbrücken
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
