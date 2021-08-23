@@ -9,7 +9,7 @@ excerpt: >-
   einen quadratischen Querschnitt.Da im Jahre 2012 erhebliche Baumängel
   festgestellt wurden musste der Turm saniert werden und ist seit Oktober 2013
   wieder geöffnet.In den Wintermonaten ist der Schwarzenbergturm geschlossen.
-date: '2020-01-11'
+date: '2021-08-23'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
