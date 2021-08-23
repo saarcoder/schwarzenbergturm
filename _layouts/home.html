@@ -3,6 +3,7 @@ layout: body
 ---
 
   {% include header.html site=site page=page image=site.data.config.header.background_img %}
+                {% include date-german.html date=post.date %}
 
   <div id="content" class="site-content">
     <main id="main" class="site-main inner">
@@ -17,7 +18,6 @@ layout: body
             <header class="post-header">
               <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
               <div class="post-meta">
-                {% include date-german.html date=post.date %}
 Veröffentlicht am {{ formattedDate }}
                  <time class="published"
                   datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%d. %B %Y' }}</time>
