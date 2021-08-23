@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Weiterlesen
 seo:
   title: Schwarzenbergturm-Theme
-  description: The preview of the Fjord theme
+  description: Vorschau auf das Theme
   extra:
     - name: 'og:type'
       value: website
