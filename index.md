@@ -1,7 +1,7 @@
 ---
 title: Start
 has_more_link: true
-more_link_text: Weiterlesen
+more_link_text: Weiter
 seo:
   title: Schwarzenbergturm-Theme
   description: Vorschau auf das Theme
