@@ -18,8 +18,8 @@ layout: body
             <header class="post-header">
               <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
               <div class="post-meta">
-                Veröffentlicht am 
-                 <time class="published">{{ formattedDate }}</time>
+                Veröffentlicht am {{ formattedDate }}
+                 <time class="published"></time>
               </div>
             </header><!-- .post-header -->
             {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
