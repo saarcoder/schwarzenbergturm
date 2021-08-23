@@ -13,7 +13,7 @@ seo:
       value: Schwarzenbergturm-Theme
       keyName: property
     - name: 'og:description'
-      value: Vorschau auf das Theme
+      value: Vorschau auf das Schwarzenbergturm-Theme
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
