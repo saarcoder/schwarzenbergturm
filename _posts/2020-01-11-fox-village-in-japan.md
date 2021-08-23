@@ -5,10 +5,10 @@ subtitle: >-
   sanctuaries.
 excerpt: >-
   Der Schwarzenbergturm in Saarbrücken wurde zwischen 1930 und 1931 errichtet.
-  Der Aussichtsturm steht auf dem Schwarzenberg , ist 46 Meter hoch und hat
-  einen quadratischen Querschnitt.Da im Jahre 2012 erhebliche Baumängel
-  festgestellt wurden musste der Turm saniert werden und ist seit Oktober 2013
-  wieder geöffnet.In den Wintermonaten ist der Schwarzenbergturm geschlossen.
+  Der Aussichtsturm steht auf dem Schwarzenberg, ist 46 Meter hoch und hat einen
+  quadratischen Querschnitt. Da im Jahre 2012 erhebliche Baumängel festgestellt
+  wurden, musste der Turm saniert werden und ist seit Oktober 2013 wieder
+  geöffnet. In den Wintermonaten ist der Schwarzenbergturm geschlossen.
 date: '2021-08-23'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
