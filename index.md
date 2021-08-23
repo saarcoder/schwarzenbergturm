@@ -1,7 +1,7 @@
 ---
-title: Home
+title: Start
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Weiterlesen
 seo:
   title: Schwarzenbergturm-Theme
   description: The preview of the Fjord theme
