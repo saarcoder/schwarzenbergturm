@@ -1,6 +1,8 @@
 ---
 title: Bewegen und der Schwarzenbergturm
-subtitle: This is a short page about me and my work
+subtitle: >-
+  Erleben Sie mit 1fach bewegen innere und äußere Bewegung gleichzeitig im und
+  um den Schwarzenbergtuturm in Saarbrücken.
 img_path: images/schwarzenbergturm-treppenhaus.jpg
 seo:
   title: About Me
