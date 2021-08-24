@@ -1,8 +1,5 @@
 ---
 title: Schwarzenbergturm Saarbrücken
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
 excerpt: >-
   Der Schwarzenbergturm in Saarbrücken wurde zwischen 1930 und 1931 errichtet.
   Der Aussichtsturm steht auf dem Schwarzenberg, ist 46 Meter hoch und hat einen
