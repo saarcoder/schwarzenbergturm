@@ -27,7 +27,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
+        Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit zugänglich
         sanctuaries.
       keyName: property
     - name: 'og:image'
