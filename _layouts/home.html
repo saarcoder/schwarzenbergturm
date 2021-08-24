@@ -18,7 +18,7 @@ layout: body
               <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
               <div class="post-meta">
                 Veröffentlicht am {% include date-german.html date=post.date %}
-{{ formattedDate }}<time class="published"
+{{ formattedDate }} <time class="published"
                   datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%d. %B %Y' }}</time>
               </div>
             </header><!-- .post-header -->
