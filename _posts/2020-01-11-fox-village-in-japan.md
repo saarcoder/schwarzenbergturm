@@ -47,7 +47,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-![Hiking](/images/2.jpg)
+![Blick vom Turm](/images/tower-view.jpg)
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
 
