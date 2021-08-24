@@ -16,8 +16,7 @@ content_img_path: images/schwarzenberg-pano.jpg
 seo:
   title: Fox Village In Japan
   description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+    Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit zugänglich.
   extra:
     - name: 'og:type'
       value: article
