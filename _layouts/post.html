@@ -17,7 +17,7 @@ layout: body
           <h1 class="post-title">{{ page.title }}</h1>
           <div class="post-meta">
             Veröffentlicht am <time class="published"
-              datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%d %B, %Y' }}</time>
+              datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%d. %B, %Y' }}</time>
           </div>
         </header><!-- .post-header -->
         {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
