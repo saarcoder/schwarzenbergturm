@@ -19,7 +19,7 @@ layout: body
               <div class="post-meta">
                 Veröffentlicht am {% include date-german.html date=post.date %}
 {{ formattedDate }}<time class="published"
-                  datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%d. %m. %Y' }}</time>
+                  datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%d. %B %Y' }}</time>
               </div>
             </header><!-- .post-header -->
             {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
