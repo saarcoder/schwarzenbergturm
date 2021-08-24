@@ -43,7 +43,7 @@ seo:
         Apparently, Japan is covered in magical and irresistibly cute animal
         sanctuaries.
     - name: 'twitter:image'
-      value: images/10.jpg
+      value: images/schwarzenberg-pano.jpg
       relativeUrl: true
 layout: post
 ---
