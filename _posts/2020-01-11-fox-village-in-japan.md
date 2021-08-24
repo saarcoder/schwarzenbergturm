@@ -12,7 +12,7 @@ excerpt: >-
 date: '2021-08-23'
 thumb_img_path: images/schwarzenberg-pano.jpg
 thumb_img_alt: Aussicht vom Schwarzenbergturm
-content_img_path: images/schwarzenberg-pano.jpg
+content_img_path: images/tower-view.jpg
 seo:
   title: Fox Village In Japan
   description: >-
