@@ -10,13 +10,14 @@ excerpt: >-
   wurden, musste der Turm saniert werden und ist seit Oktober 2013 wieder
   geöffnet. In den Wintermonaten ist der Schwarzenbergturm geschlossen.
 date: '2021-08-23'
-thumb_img_path: images/turmblick.jpg
+thumb_img_path: images/schwarzenberg-pano.jpg
 thumb_img_alt: Aussicht vom Schwarzenbergturm
 content_img_path: images/schwarzenberg-pano.jpg
 seo:
   title: Fox Village In Japan
   description: >-
-    Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit zugänglich.
+    Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit
+    zugänglich.
   extra:
     - name: 'og:type'
       value: article
@@ -26,8 +27,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit zugänglich
-        sanctuaries.
+        Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit
+        zugänglich sanctuaries.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
@@ -39,8 +40,8 @@ seo:
       value: Fox Village In Japan
     - name: 'twitter:description'
       value: >-
-        Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit zugänglich
-        sanctuaries.
+        Seit 2013 ist der Schwarzenbergturm wieder für die Öffentlichkeit
+        zugänglich sanctuaries.
     - name: 'twitter:image'
       value: images/schwarzenberg-pano.jpg
       relativeUrl: true
