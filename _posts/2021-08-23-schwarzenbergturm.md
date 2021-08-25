@@ -7,7 +7,7 @@ excerpt: >-
   wurden, musste der Turm saniert werden und ist seit Oktober 2013 wieder
   geöffnet. In den Wintermonaten ist der Schwarzenbergturm geschlossen.
 date: '2021-08-23'
-thumb_img_path: images/schwarzenberg-pano.jpg
+thumb_img_path: images/turmblick_small_cpr.jpg
 thumb_img_alt: Aussicht vom Schwarzenbergturm
 content_img_path: images/schwarzenberg-pano.jpg
 seo:
@@ -45,7 +45,7 @@ seo:
 layout: post
 ---
 
-![Ausblick](images/turmblick_small_cpr.jpg)
+![Ausblick](/images/turmblick_small_cpr.jpg)
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
 
