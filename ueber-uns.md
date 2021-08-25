@@ -8,6 +8,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+img_path: images/20210330_125722.jpg
 ---
 ## Lorem ipsum
 
