@@ -8,7 +8,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-img_path: images/20210330_125722.jpg
+img_path: images/waldboden_small_cpr.jpg
 ---
 ## 1fach bewegen!
 
