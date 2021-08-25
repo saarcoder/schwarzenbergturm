@@ -1,6 +1,6 @@
 ---
 title: Über uns
-subtitle: lorem-ipsum
+subtitle: Wer wir sind
 seo:
   title: ''
   description: ''
