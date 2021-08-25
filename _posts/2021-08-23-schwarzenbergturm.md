@@ -7,7 +7,7 @@ excerpt: >-
   wurden, musste der Turm saniert werden und ist seit Oktober 2013 wieder
   geöffnet. In den Wintermonaten ist der Schwarzenbergturm geschlossen.
 date: '2021-08-23'
-thumb_img_path: images/schwarzenbergturm
+thumb_img_path: images/schwarzenbergturm_sm_cpr.jpg
 thumb_img_alt: Aussicht vom Schwarzenbergturm
 content_img_path: images/schwarzenberg-pano.jpg
 seo:
