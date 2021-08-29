@@ -30,7 +30,7 @@
             },
             {
                 "label": "Augenblicke",
-                "url": "#",
+                "url": "augenblicke",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
