@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Impressum",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "Augenblicke",
                 "url": "augenblicke",
                 "style": "link",
@@ -36,6 +31,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Impressum",
+                "url": "/contact",
+                "style": "link"
             }
         ],
         "has_social": true,
