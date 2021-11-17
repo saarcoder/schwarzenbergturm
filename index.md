@@ -16,7 +16,7 @@ seo:
       value: Vorschau auf das Schwarzenbergturm-Theme
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: images/turmblick_small_cpr.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
