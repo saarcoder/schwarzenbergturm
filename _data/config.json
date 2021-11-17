@@ -52,6 +52,13 @@
                 "icon_class": "instagram",
                 "new_window": true
             },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/Fussbotschafter",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
 
         ],
         "background_img": "images/schwarzenbergturm-saarbruecken.jpg",
