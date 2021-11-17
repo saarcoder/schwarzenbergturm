@@ -282,7 +282,7 @@ models:
             - form_field
       - type: string
         name: submit_label
-        label: Button-Label
+        label: Button-Label Abschicken
         required: true
       - type: model
         name: seo
