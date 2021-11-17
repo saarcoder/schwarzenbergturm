@@ -234,7 +234,7 @@ models:
         default: true
       - type: string
         name: more_link_text
-        label: Link label
+        label: Link-Label
       - type: model
         name: seo
         models:
