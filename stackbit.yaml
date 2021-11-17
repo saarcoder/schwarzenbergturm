@@ -413,7 +413,7 @@ models:
     fields:
       - type: enum
         name: input_type
-        label: Type
+        label: Typ
         options:
           - text
           - email
