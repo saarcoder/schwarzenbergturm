@@ -156,7 +156,7 @@ models:
           is not set, the author name will be used.
       - type: string
         name: tagline
-        label: Header Tagline
+        label: Header
         description: The tagline displayed on the left side
       - type: image
         name: logo_img
