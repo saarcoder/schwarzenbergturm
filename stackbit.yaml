@@ -447,7 +447,7 @@ models:
         default: false
   stackbit_page_meta:
     type: object
-    label: Page MetaDaten
+    label: Page Meta-Daten
     fields:
       - type: string
         name: title
