@@ -198,7 +198,7 @@ models:
             - action
   footer:
     type: object
-    label: Footer Configuration Header
+    label: Konfiguration Header
     labelField: content
     fields:
       - type: string
