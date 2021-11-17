@@ -185,7 +185,7 @@ models:
             - action
       - type: boolean
         name: has_social
-        label: Social- Links
+        label: Social-Kanäle Links
         description: Display social links on the left side
         default: true
       - type: list
