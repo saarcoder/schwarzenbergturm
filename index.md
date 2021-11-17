@@ -3,7 +3,7 @@ title: Start
 has_more_link: true
 more_link_text: Weiter
 seo:
-  title: Schwarzenbergturm-Theme
+  title: Schwarzenbergturm-Saarbrücken
   description: Vorschau auf das Theme
   extra:
     - name: 'og:type'
