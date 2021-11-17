@@ -403,7 +403,7 @@ models:
         default: false
       - type: boolean
         name: no_follow
-        label: No follow
+        label: Nicht folgen
         default: false
         description: Add rel="nofollow" attribute to the link
   form_field:
