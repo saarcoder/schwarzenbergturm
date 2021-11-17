@@ -399,7 +399,7 @@ models:
           - youtube
       - type: boolean
         name: new_window
-        label: Open in new tab/window
+        label: In neuem tab/Fenster öffnen
         default: false
       - type: boolean
         name: no_follow
