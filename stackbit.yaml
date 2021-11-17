@@ -316,7 +316,7 @@ models:
   post:
     type: page
     urlPath: '/posts/{slug}'
-    label: Einzeklbeitrag
+    label: Einzelbeitrag
     layout: post
     folder: _posts
     fields:
