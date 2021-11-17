@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Schwarzenbergturm-Theme
+      value: Schwarzenbergturm-Saarbrücken
     - name: 'twitter:description'
       value: The preview of the Fjord theme
     - name: 'twitter:image'
