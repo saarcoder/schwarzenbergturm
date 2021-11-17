@@ -408,7 +408,7 @@ models:
         description: Add rel="nofollow" attribute to the link
   form_field:
     type: object
-    label: Form Field
+    label: Formularfeld
     labelField: name
     fields:
       - type: enum
