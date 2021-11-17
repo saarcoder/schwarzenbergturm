@@ -282,7 +282,7 @@ models:
             - form_field
       - type: string
         name: submit_label
-        label: Submit Button Label
+        label: Button Label
         required: true
       - type: model
         name: seo
