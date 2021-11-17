@@ -275,7 +275,7 @@ models:
           default success message
       - type: list
         name: form_fields
-        label: Form Fields
+        label: Formularfelder
         items:
           type: model
           models:
