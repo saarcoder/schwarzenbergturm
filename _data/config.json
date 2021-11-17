@@ -46,13 +46,6 @@
                 "new_window": true
             },
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/Fussbotschafter",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/fussbotschafter/",
                 "style": "icon",
