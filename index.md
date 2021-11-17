@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Schwarzenbergturm-Theme
+      value: Schwarzenbergturm-Saarbrücken
       keyName: property
     - name: 'og:description'
       value: Vorschau auf das Schwarzenbergturm-Theme
