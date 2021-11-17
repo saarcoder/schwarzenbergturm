@@ -229,7 +229,7 @@ models:
         required: true
       - type: boolean
         name: has_more_link
-        label: Show keep reading link
+        label: Link Weiterlesen
         description: Display the keep reading link in the post feed
         default: true
       - type: string
