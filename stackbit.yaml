@@ -269,7 +269,7 @@ models:
         required: true
       - type: string
         name: form_action
-        label: Form Action
+        label: Formular-Aktion
         description: >-
           The path of your custom "success" page, if you want to replace the
           default success message
