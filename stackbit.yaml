@@ -164,7 +164,7 @@ models:
         description: The logo image displayed on the left side
       - type: string
         name: logo_img_alt
-        label: Logo Alternativtext
+        label: Alternativtext Logo
         description: The alt text of the logo image
       - type: image
         name: background_img
