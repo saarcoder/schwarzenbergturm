@@ -168,7 +168,7 @@ models:
         description: The alt text of the logo image
       - type: image
         name: background_img
-        label: Hintergrundbild Image
+        label: Hintergrundbild
         description: The image displayed in the background of the left side
       - type: boolean
         name: has_nav
