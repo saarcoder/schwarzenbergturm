@@ -335,7 +335,7 @@ models:
         required: true
       - type: image
         name: thumb_img_path
-        label: Image (Blog Feed)
+        label: Bild (Blog Feed)
         description: The image shown in the blog feed
       - type: string
         name: thumb_img_alt
