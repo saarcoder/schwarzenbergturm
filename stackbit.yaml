@@ -350,7 +350,7 @@ models:
           displayed.
       - type: string
         name: excerpt
-        label: Excerpt
+        label: Zusammenfassung
         description: The excerpt of the post displayed in the blog feed
       - type: boolean
         name: hide_header
