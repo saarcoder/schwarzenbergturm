@@ -139,13 +139,13 @@ models:
           - header
       - type: model
         name: footer
-        label: Footer Konfiguration
+        label: Konfiguration Footer
         models:
           - footer
     file: config.json
   header:
     type: object
-    label: Header Configuration
+    label: Header Konfiguration
     labelField: title
     fields:
       - type: string
