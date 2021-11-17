@@ -264,7 +264,7 @@ models:
           image specified in Header Configuration is displayed.
       - type: string
         name: form_id
-        label: Form ID
+        label: Formular-ID
         description: 'A unique identifier of the form, must not contain whitespace'
         required: true
       - type: string
