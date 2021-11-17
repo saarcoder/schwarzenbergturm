@@ -377,7 +377,7 @@ models:
         default: '#'
       - type: enum
         name: style
-        label: Style
+        label: Stil
         options:
           - link
           - icon
