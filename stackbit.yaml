@@ -443,7 +443,7 @@ models:
         description: The list of options for select field
       - type: boolean
         name: is_required
-        label: Ist das Feld required?
+        label: Ist das Feld erforderlich?
         default: false
   stackbit_page_meta:
     type: object
