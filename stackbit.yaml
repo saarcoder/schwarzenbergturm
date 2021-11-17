@@ -339,7 +339,7 @@ models:
         description: The image shown in the blog feed
       - type: string
         name: thumb_img_alt
-        label: Alternativtext Bild (Blog Feed)
+        label: Alternativtext Bild (im Blog)
         description: The alt text of the blog feed image
       - type: image
         name: content_img_path
