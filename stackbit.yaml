@@ -134,7 +134,7 @@ models:
         required: true
       - type: model
         name: header
-        label: Header Konfiguration
+        label: Konfiguration
         models:
           - header
       - type: model
