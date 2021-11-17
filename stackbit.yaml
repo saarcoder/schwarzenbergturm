@@ -363,7 +363,7 @@ models:
           - stackbit_page_meta
   action:
     type: object
-    label: Action
+    label: Aktion
     labelField: label
     fields:
       - type: string
