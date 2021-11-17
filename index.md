@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Schwarzenbergturm-Saarbrücken
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: Vorschau auf das Schwarzenbergturm-Theme
     - name: 'twitter:image'
       value: images/turmblick_small_cpr.jpg
       relativeUrl: true
