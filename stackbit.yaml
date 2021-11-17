@@ -177,7 +177,7 @@ models:
         default: true
       - type: list
         name: nav_links
-        label: Navigation Links
+        label: Navigationslinks
         description: List of navigation links
         items:
           type: model
